@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I'm Dante Corso
 
-<!--
-**Umbara1077/Umbara1077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer and full-stack developer passionate about building modern web applications, mobile ordering systems, automation tools, and cloud-integrated dashboards. I combine clean code with intuitive UI design to deliver tools that enhance real-world workflows — especially in small business and service environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Do
+
+- 💻 **Full-Stack Development** – End-to-end web app development using JavaScript, Python, Node.js, Firebase, and REST APIs
+- ⚙️ **Software Engineering** – Designing and engineering maintainable systems with modular architecture and secure practices
+- ☁️ **Cloud-Based Systems** – Leveraging Firestore, Realtime DB, Azure AI, and cloud functions to build scalable, data-driven platforms
+- 🔐 **Authentication & Access Control** – Implementing secure login flows, admin-level tools, and protected content using Firebase Auth and session management
+- 🧠 **Automation & AI Integration** – Utilizing LLMs and prompt pipelines for speech transcription, code analysis, and custom automation
+- 🖥️ **Admin Panels & Dashboards** – Creating internal tools that empower staff to manage operations, analytics, and resources in real time
+- 📊 **Data Handling & Visualization** – Building interfaces to track usage, inventory, and customer activity with real-time updates
+- 🧩 **API Development & Integration** – Custom REST endpoints, 3rd party service hooks, and low-latency data sync across services
+
+---
+
+## 🧩 Featured Projects
+
+### 📦 **Operations + Order Systems**
+
+- **MobileOrder** – A mobile and tablet-friendly customer ordering system that syncs with the live database, allowing real-time order placement with location info (e.g. table, curbside). Built for reliability and ease of use in busy environments.
+- **OrderManager** – A real-time admin dashboard that staff use to manage live orders, update statuses, track customer arrival, and ensure fulfillment. Integrates with MobileOrder and supports role-based access.
+- **TaskManagerApp** – A lightweight task tracking tool with an intuitive interface built in vanilla JavaScript. Supports persistent tasks, progress tracking, and is used internally.
+
+---
+
+### 🖥️ **Digital Signage Systems**
+
+- **Digital-Signage / CaffeDigitalSignage** – A real-time digital signage solution that cycles between menus, videos, and featured items. Built with Firebase for real-time content updates, so staff can update flavors, pricing, and promotions instantly from the cloud.
+- **Kiosk** – A simplified ordering interface designed for walk-up tablets. Shares the same backend structure as MobileOrder but optimized for high-speed local ordering.
+
+---
+
+### 🧾 **Admin Tools + Inventory Management**
+
+- **PS-Inventory-System / DolceVitaInventory** – Custom-built inventory platforms used for tracking shelf quantity, setting thresholds, restocking alerts, and managing inventory states in real time.
+- **Login Portals** – Firebase-authenticated login and access control for internal tools, protecting order data, admin dashboards, and dynamic content controls.
+
+---
+
+### 🤖 **AI & Automation Utilities**
+
+- **AI-Code-Analyzer** – A GPT-based tool that explains, audits, and summarizes code snippets. Useful for onboarding, debugging, and AI-assisted learning.
+- **Speech-to-Text Transcriber** – Uses Azure Cognitive Services to transcribe `.wav` voicemail attachments into clean ticket descriptions. Fully integrated into Logic Apps and email flows.
+
+---
+
+### 🌐 **Web Presence + Branding Tools**
+
+- **Portfolio** – My full portfolio site, live at [dantecorso.com](https://dantecorso.com), built to showcase my work, skills, and contact portals.
+- **LandingPage / Connect / DolceVitaGelateriaLinks** – Lightweight branding pages and “link-in-bio” microsites designed for easy navigation and mobile responsiveness.
+- **Analysis Dashboards** – Custom dashboards used to visualize internal data such as order volume, peak hours, or fulfillment performance.
+
+---
+
+> Some of these applications are used daily by customers and staff at live businesses — handling real transactions, managing live data, and supporting day-to-day operations.
+
+---
+
+## 📬 Contact
+
+- 🌍 **Website**: [dantecorso.com](https://dantecorso.com)
+- 📬 **Contact Page**: [dantecorso.com/contact.html](https://dantecorso.com/contact.html)
+- 💼 **LinkedIn**: [linkedin.com/in/dante-corso](https://linkedin.com/in/dante-corso)
+
+---
+
+_Thanks for stopping by! Feel free to explore the pinned projects or reach out if you'd like to collaborate._
