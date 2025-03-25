@@ -21,30 +21,31 @@ I'm a software engineer and full-stack developer passionate about building moder
 
 ### 📦 **Operations + Order Systems**
 
-- **MobileOrder** – A mobile and tablet-friendly customer ordering system that syncs with the live database, allowing real-time order placement with location info (e.g. table, curbside). Built for reliability and ease of use in busy environments.
-- **OrderManager** – A real-time admin dashboard that staff use to manage live orders, update statuses, track customer arrival, and ensure fulfillment. Integrates with MobileOrder and supports role-based access.
+- **MobileOrder** – A mobile and tablet-friendly customer ordering system that syncs with the live database, allowing real-time order placement with location info (e.g. table, curbside). Built for reliability and ease of use in busy environments. Built for Dolce Vita Gelateria.
+- **OrderManager** – A real-time admin dashboard that staff use to manage live orders, update statuses, track customer arrival, and ensure fulfillment. Integrates with MobileOrder and supports role-based access. Built for Dolce Vita Gelateria.
 - **TaskManagerApp** – A lightweight task tracking tool with an intuitive interface built in vanilla JavaScript. Supports persistent tasks, progress tracking, and is used internally.
 
 ---
 
 ### 🖥️ **Digital Signage Systems**
 
-- **Digital-Signage / CaffeDigitalSignage** – A real-time digital signage solution that cycles between menus, videos, and featured items. Built with Firebase for real-time content updates, so staff can update flavors, pricing, and promotions instantly from the cloud.
-- **Kiosk** – A simplified ordering interface designed for walk-up tablets. Shares the same backend structure as MobileOrder but optimized for high-speed local ordering.
+- **Digital-Signage / CaffeDigitalSignage** – A real-time digital signage solution that cycles between menus, videos, and featured items. Built with Firebase for real-time content updates, so staff can update flavors, pricing, and promotions instantly from the cloud. Built for Dolce Vita Gelateria.
+- **Kiosk** – A simplified ordering interface designed for walk-up tablets. Shares the same backend structure as MobileOrder but optimized for high-speed local ordering. Built for Dolce Vita Gelateria.
 
 ---
 
 ### 🧾 **Admin Tools + Inventory Management**
 
-- **PS-Inventory-System / DolceVitaInventory** – Custom-built inventory platforms used for tracking shelf quantity, setting thresholds, restocking alerts, and managing inventory states in real time.
+- **PS-Inventory-System / DolceVitaInventory** – Custom-built inventory platforms used for tracking shelf quantity, setting thresholds, restocking alerts, and managing inventory states in real time for P&S Ravoli Company.
 - **Login Portals** – Firebase-authenticated login and access control for internal tools, protecting order data, admin dashboards, and dynamic content controls.
+- **On-Call Ticket Monitoring System** – A full-stack internal application built with Azure Functions, Azure Static Web Apps, Python, JavaScript, and cloud storage to monitor support queues for new on-call tickets and customer note updates. It automates engineer notifications, reduces manual triage, and includes a web-based interface for real-time monitoring. The system is also deployed as a Microsoft Teams app for quick access during after-hours support shifts, resulting in a 25% improvement in response time. Built for E3 IT Services.
 
 ---
 
 ### 🤖 **AI & Automation Utilities**
 
 - **AI-Code-Analyzer** – A GPT-based tool that explains, audits, and summarizes code snippets. Useful for onboarding, debugging, and AI-assisted learning.
-- **Speech-to-Text Transcriber** – Uses Azure Cognitive Services to transcribe `.wav` voicemail attachments into clean ticket descriptions. Fully integrated into Logic Apps and email flows.
+- **Speech-to-Text Transcriber** – Uses Azure Cognitive Services to transcribe `.wav` voicemail attachments into clean ticket descriptions. Fully integrated into Logic Apps, Azure Functions writen in Python, Azure Speech and email flows. Built for E3 IT Services.
 
 ---
 
