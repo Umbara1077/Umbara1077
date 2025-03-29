@@ -21,7 +21,7 @@ I'm a software engineer and full-stack developer passionate about building moder
 
 ### 📦 **Operations + Order Systems**
 
-- **MobileOrder** – A mobile and tablet-friendly customer ordering system that syncs with the live database, allowing real-time order placement with location info (e.g. table, curbside). Built for reliability and ease of use in busy environments. Built for Dolce Vita Gelateria.
+- **MobileOrder** – A mobile and tablet-friendly customer ordering system that syncs with the live database, allowing real-time order placement with location info (table, curbside). Built for reliability and ease of use in busy environments. Built for Dolce Vita Gelateria. https://dolcevitasewell-mobileorder.com/
 - **OrderManager** – A real-time admin dashboard that staff use to manage live orders, update statuses, track customer arrival, and ensure fulfillment. Integrates with MobileOrder and supports role-based access. Built for Dolce Vita Gelateria.
 - **TaskManagerApp** – A lightweight task tracking tool with an intuitive interface built in vanilla JavaScript. Supports persistent tasks, progress tracking, and is used internally.
 
