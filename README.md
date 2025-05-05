@@ -11,7 +11,6 @@ I'm a software engineer and full-stack developer passionate about building moder
 - ☁️ **Cloud-Based Systems** – Leveraging Firestore, Realtime DB, Azure AI, and cloud functions to build scalable, data-driven platforms
 - 🔐 **Authentication & Access Control** – Implementing secure login flows, admin-level tools, and protected content using Firebase Auth and session management
 - 🧠 **Automation & AI Integration** – Utilizing LLMs and prompt pipelines for speech transcription, code analysis, and custom automation
-- 🖥️ **Admin Panels & Dashboards** – Creating internal tools that empower staff to manage operations, analytics, and resources in real time
 - 📊 **Data Handling & Visualization** – Building interfaces to track usage, inventory, and customer activity with real-time updates
 - 🧩 **API Development & Integration** – Custom REST endpoints, 3rd party service hooks, and low-latency data sync across services
 
