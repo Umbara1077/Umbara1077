@@ -6,13 +6,13 @@ I'm a software engineer and full-stack developer passionate about building moder
 
 ## 🔧 What I Do
 
-- 💻 **Full-Stack Development** – End-to-end web app development using JavaScript, Python, Node.js, Firebase, and REST APIs
+- 💻 **Full-Stack Development** – End-to-end web app development using JavaScript, Python, Node.js, Firebase, and REST APIs. Tools such as React, Django
 - ⚙️ **Software Engineering** – Designing and engineering maintainable systems with modular architecture and secure practices
 - ☁️ **Cloud-Based Systems** – Leveraging Firestore, Realtime DB, Azure AI, and cloud functions to build scalable, data-driven platforms
 - 🔐 **Authentication & Access Control** – Implementing secure login flows, admin-level tools, and protected content using Firebase Auth and session management
 - 🧠 **Automation & AI Integration** – Utilizing LLMs and prompt pipelines for speech transcription, code analysis, and custom automation
 - 📊 **Data Handling & Visualization** – Building interfaces to track usage, inventory, and customer activity with real-time updates
-- 🧩 **API Development & Integration** – Custom REST endpoints, 3rd party service hooks, and low-latency data sync across services
+- 🧩 **API Development & Integration** – Designed and implemented custom RESTful endpoints, integrated third-party service hooks, and enabled low-latency data synchronization across systems.
 
 ---
 
@@ -45,7 +45,9 @@ I'm a software engineer and full-stack developer passionate about building moder
 
 - **AI-Code-Analyzer** – A GPT-based tool that explains, audits, and summarizes code snippets. Useful for onboarding, debugging, and AI-assisted learning.
 - **Speech-to-Text Transcriber** – Uses Azure Cognitive Services to transcribe `.wav` voicemail attachments into clean ticket descriptions. Fully integrated into Logic Apps, Azure Functions writen in Python, Azure Speech and email flows. Built for E3 IT Services.
-
+- **Information Dashboard** – A Django-powered dashboard that aggregates recent games, movies (in theaters & upcoming), and tech/general news into paginated list and detail views.
+- **AI Foundry Search** – Built a Python backend using Azure Functions and AI Foundry to dynamically generate JSON queries for tickets, tasks, opportunities, projects, contracts, and contacts. Integrated Autotask API for data retrieval and employed a secondary AI bot for detailed, AI-driven insights. Developed a responsive front end with Azure Static Web Apps. Built for E3 IT Services
+  
 ---
 
 ### 🌐 **Web Presence + Branding Tools**
